@@ -3,3 +3,15 @@ title: "Homework3"
 format: html
 ---
 
+https://github.com/nathanseaway/ENVS-193DS_homework-03.git
+
+```{r}
+library(tidyverse)
+library(here)
+library(gt)
+library(flextable)
+library(janitor)
+library(readxl)
+```
+
+a. To summarize my data I can take the mean of the number of times I apply sunscreen (response variable) compared between the two categorical groups: went to beach and did not go to beach (predictor variable). This allows me to compare the relation between going to the beach in a day and applying sunscreen, as I believe I apply sunscreeen more on days when I go to the beach. 
